@@ -1,0 +1,14 @@
+[
+  {
+    "id": "snes",
+    "name": "Super Nintendo",
+    "image": "covers/snes/logo.png",
+    "catalog": "snes.json"
+  },
+  {
+    "id": "arcade",
+    "name": "Arcade",
+    "image": "covers/arcade/logo.png",
+    "catalog": "arcade.json"
+  }
+]
