@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Metal Slug",
+    "cover": "covers/metalslug.jpg",
+    "rom": "roms/mslug.zip"
+  },
+  {
+    "name": "Cadillacs and Dinosaurs",
+    "cover": "covers/cadillacs.jpg",
+    "rom": "roms/cadillacs.zip"
+  },
+  {
+    "name": "The King of Fighters 2002",
+    "cover": "covers/kof2002.jpg",
+    "rom": "roms/kof2002.zip"
+  }
+]
