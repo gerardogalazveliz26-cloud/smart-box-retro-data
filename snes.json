@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Donkey Kong Country",
+    "cover": "covers/dkc.jpg",
+    "rom": "roms/dkc.zip"
+  },
+  {
+    "name": "Super Mario World",
+    "cover": "covers/smw.jpg",
+    "rom": "roms/smw.zip"
+  },
+  {
+    "name": "Chrono Trigger",
+    "cover": "covers/chrono.jpg",
+    "rom": "roms/chrono.zip"
+  }
+]
