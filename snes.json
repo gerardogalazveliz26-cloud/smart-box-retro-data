@@ -5,9 +5,9 @@
     "rom":"roms/dkc.sfc"
     },
     {
-        "name":"Super Mario World",
+        "name":"Donkey Kong Country 2",
         "cover":"covers/smw.jpg",
-        "rom":"roms/smw.sfc"
+        "rom":"roms/dkc2.sfc"
     },
     {
         "name":"Chrono Trigger",
