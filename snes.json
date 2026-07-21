@@ -13,5 +13,11 @@
     "name": "Chrono Trigger",
     "cover": "covers/chrono.jpg",
     "rom": "roms/chrono.zip"
-  }
+  },
+{
+    "name":"Super Metroid",
+    "cover":"covers/supermetroid.jpg",
+    "rom":"roms/supermetroid.zip"
+}
 ]
+
