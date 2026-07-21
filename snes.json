@@ -1,8 +1,8 @@
 [
     {
-        "name":"Donkey Kong Country",
-        "cover":"covers/dkc.jpg",
-        "rom":"ROMs/dkc.sfc"
+         "name":"Donkey Kong Country",
+    "cover":"covers/dkc.jpg",
+    "rom":"roms/dkc.sfc"
     },
     {
         "name":"Super Mario World",
