@@ -7,7 +7,7 @@
     {
         "name":"Super Mario World",
         "cover":"covers/smw.jpg",
-        "rom":"ROMs/smw.sfc"
+        "rom":"roms/smw.sfc"
     },
     {
         "name":"Chrono Trigger",
