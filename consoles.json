@@ -1,14 +1,20 @@
 [
-  {
-    "id": "snes",
-    "name": "Super Nintendo",
-    "image": "covers/snes/logo.png",
-    "catalog": "snes.json"
-  },
-  {
-    "id": "arcade",
-    "name": "Arcade",
-    "image": "covers/arcade/logo.png",
-    "catalog": "arcade.json"
-  }
+    {
+        "id":"snes",
+        "name":"Super Nintendo",
+        "image":"",
+        "catalog":"snes.json"
+    },
+    {
+        "id":"arcade",
+        "name":"Arcade",
+        "image":"",
+        "catalog":"arcade.json"
+    },
+    {
+        "id":"nes",
+        "name":"Nintendo",
+        "image":"",
+        "catalog":"nes.json"
+    }
 ]
