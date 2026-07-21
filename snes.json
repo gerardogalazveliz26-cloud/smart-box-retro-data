@@ -10,8 +10,8 @@
         "rom":"roms/dkc2.sfc"
     },
     {
-        "name":"Chrono Trigger",
-        "cover":"covers/chrono.jpg",
+        "name":"Aladdin",
+        "cover":"covers/aladin.jpg",
         "rom":"roms/chrono.sfc"
     }
 ]
