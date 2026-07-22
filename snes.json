@@ -1,17 +1,32 @@
 [
     {
-         "name":"Donkey Kong Country",
-    "cover":"covers/dkc.jpg",
-    "rom":"roms/dkc.sfc"
+        "name": "Donkey Kong Country",
+        "cover": "covers/dkc.jpg",
+        "rom": "roms/dkc.sfc"
     },
     {
-        "name":"Donkey Kong Country 2",
-        "cover":"covers/dkc2.png",
-        "rom":"roms/dkc2.sfc"
+        "name": "Donkey Kong Country 2",
+        "cover": "covers/dkc2.png",
+        "rom": "roms/dkc2.sfc"
     },
     {
-        "name":"Aladdin",
-        "cover":"covers/aladin.jpg",
-        "rom":"roms/aladdin.sfc"
+        "name": "Aladdin",
+        "cover": "covers/aladdin.jpg",
+        "rom": "roms/aladdin.sfc"
+    },
+    {
+        "name": "Mortal Kombat 1",
+        "cover": "covers/mk1.jpg",
+        "rom": "roms/Mortal Kombat 1"
+    },
+    {
+        "name": "Mortal Kombat 2",
+        "cover": "covers/mk2.jpg",
+        "rom": "roms/Mortal Kombat 2"
+    },
+    {
+        "name": "Super Mario All-Stars + Super Mario World",
+        "cover": "covers/sm_allstars.jpg",
+        "rom": "roms/Super Mario All-Stars + Super Mario World"
     }
 ]
