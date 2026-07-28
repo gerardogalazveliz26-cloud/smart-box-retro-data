@@ -10,6 +10,11 @@
         "name":"Arcade",
         "image":"",
         "catalog":"arcade.json"
-    
+    },
+    {
+        "id":"controller",
+        "name":"Smart Box Controller",
+        "image":"",
+        "catalog":"controller"
     }
 ]
